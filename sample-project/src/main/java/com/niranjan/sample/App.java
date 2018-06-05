@@ -1,4 +1,4 @@
-package com.niranjan.appname;
+package com.niranjan.sample;
 
 /**
  * Hello world!
